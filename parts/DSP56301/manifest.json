@@ -1,0 +1,17 @@
+{
+  "id": "DSP_Motorola/DSP56301:DSP56301",
+  "name": "DSP56301",
+  "library": "DSP_Motorola",
+  "file": "DSP_Motorola.kicad_symdir/DSP56301.kicad_sym",
+  "description": "24-Bit Digital Signal Processor with PCI bus interface",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/DSP56301DS.pdf",
+  "keywords": "DSP PCI",
+  "footprint": "Package_QFP:PQFP-208_28x28mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-dsp-motorola@master/parts/DSP56301/",
+  "part_path": "parts/DSP56301",
+  "symbol_file": "parts/DSP56301/DSP56301.kicad_sym",
+  "source_library": "DSP_Motorola.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:40.731Z"
+}
